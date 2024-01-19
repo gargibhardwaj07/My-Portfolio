@@ -73,7 +73,7 @@ a{
 }
 
 img{
-	max-width: 100%;
+	max-width: 135%;
 	height: auto;
 	display: block;
 }
@@ -323,6 +323,7 @@ img{
 }
 .skills__img{
 	border-radius: .5rem;
+	
 }
 
 /* ===== WORK =====*/
